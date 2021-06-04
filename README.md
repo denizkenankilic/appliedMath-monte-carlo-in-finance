@@ -1,5 +1,5 @@
 # monte-carlo-in-finance
-Monte Carlo methods in finance and insurance
+This repository contains the topics about Monte Carlo methods in finance and insurance. Reducing variance via stratified and conditional sampling is explained in "**metu_iam757.pdf**".
 
 * Latin hypercube sampling is an extension of stratification for sampling in multiple dimensions.
   * For each random variable, divide range into n non-overlapping intervals
